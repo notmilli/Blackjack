@@ -1,6 +1,5 @@
 import random
 from art import logo
-from replit import clear
 
 current_score = 0 
 computer_score = 0
